@@ -1,0 +1,8 @@
+- Mempelajari python dasar dan konsep-konsep dasar yang penting untuk dipelajari dan digunakan dalam kebutuhan atau relevansi pekerjaan.
+- Mempelajari git dan github untuk keperluan kolaborasi, kerja sama tim, dan kebutuhan atau relevansi dalam pekerjaan.
+- Mempelajari sda dasar yang cukup untuk kebutuhan logika sistem dan interview kerja.
+- Mempelajari konsep web server untuk keperluan projek.
+- Mempelajari http dasar seperti http request, http response, dan format json untuk keperluan backend developer.
+- Mempelajari api untuk alur sistem dalam suatu website serta untuk relevansi dalam pekerjaan backend developer.
+- Mempelajari data base dasar untuk keperluan pekerjaan dan relevansi dengan pekerjaan backend developer.
+- Mempelajari django sebagai framework pertama dan memenuhi standar yang diperlukan oleh perusahan-perusahan yang relevan dengan backend developer.
