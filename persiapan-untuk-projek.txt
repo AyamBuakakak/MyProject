@@ -1,0 +1,12 @@
+Saya akan membuat sebuah projek yang dengan fitur standar:
+                                                  ^ Registrasi
+                                                  ^ Login
+                                                  ^ Home Page
+                                                  ^ Layanan/Customer Service
+                                                  
+namun cukup kompleks dari segi sistemnya, yang mencakup standar sistem dalam sebuah web atau aplikasi:
+                                                        ^ pembuatan endpoint dengan URL
+                                                        ^ Logika Sistem/View:
+                                                          ^ Pengurutan Data
+                                                          ^ Pengambilan Data
+                                                          ^ Tampilan Data
